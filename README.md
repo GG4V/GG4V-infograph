@@ -1,2 +1,2 @@
 # GG4V-infograph
-Infographics
+index.html
